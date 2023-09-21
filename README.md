@@ -5,8 +5,6 @@
 
 - 📫 Reach me in Telegram **t.me/EmirTakhaviev**
 
-- 📄 Know about my experiences [Notion page](https://emirtakhaviev.notion.site/Emir-Takhaviev-Python-Backend-Developer-11528cbd2acf439cb3230c9080d56ead?pvs=4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emir-takhaviev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emir-takhaviev" height="30" width="40" /></a>
