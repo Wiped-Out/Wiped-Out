@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir Takhaviev</h1>
 <h3 align="center">Python Backend Developer</h3>
 
-- I’m currently working in [Zelenoe](https://zelenoe.pro)
-
 - 📫 Reach me in Telegram **t.me/EmirTakhaviev**
 
 <h3 align="left">Connect with me:</h3>
